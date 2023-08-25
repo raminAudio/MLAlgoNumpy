@@ -4,7 +4,7 @@ Implementation of common ML algorithms in Numpy.
 
 * [Linear regression](Linear_Regression.ipynb)
 * [Logistic regression](Logistic_Regression.ipynb)
-* Decision tree
+* [Decision tree]('Decision_tree.ipynb')
 * SVM algorithm
 * Naive Bayes algorithm
 * KNN algorithm
