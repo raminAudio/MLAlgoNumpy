@@ -35,6 +35,10 @@ Implementation of common ML algorithms in Numpy or Pytorch. I used ChatGPT to cr
 * Random forest algorithm
 
         decision_tree-random-forest-pytorch.ipynb
+        
+* Gradient Boosting algorithm
+
+        gradient_boosting-pytorch.ipynb
 
 * Dimensionality Reduction Algorithms
 
