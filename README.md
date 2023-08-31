@@ -43,9 +43,6 @@ Implementation of common ML algorithms in Numpy or Pytorch. I used ChatGPT to cr
 * Dimensionality Reduction Algorithms
 
 
-* Gradient Boosting Algorithm and AdaBoosting Algorithm
-
-
 * Backpropagation
 
 
